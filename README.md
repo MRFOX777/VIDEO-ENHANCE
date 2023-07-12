@@ -1,2 +1,5 @@
 # VIDEO-ENHANCE
 VIDEO ENHANCEMENT AND SUPER RESOLUTION WITH WEB UI
+
+install fast
+pip install flask
